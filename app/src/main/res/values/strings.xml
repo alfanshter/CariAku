@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Iska</string>
+    <string name="title_activity_udang_home_lelang">UdangHomeLelang</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home_menu">HomeMenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_Upload">Upload</string>
+    <string name="error_field_required">jangan kosong</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="nav_header_subtitle">email</string>
+    <string name="info">info</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+    <string name="drawer_close">close</string>
+    <string name="drawer_open">open</string>
+    <string name="saldo">saldo</string>
+    <string name="title_maps">maps</string>
+    <string name="login_page">Halaman Login</string>
+    <string name="ic_login">ikon login</string>
+    <string name="title_resto">Akses Kamera GPS</string>
+    <string name="title_resto_desc">Akses Kamere dan GPS</string>
+    <string name="username">username</string>
+</resources>
